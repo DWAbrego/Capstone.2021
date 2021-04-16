@@ -1,0 +1,274 @@
+------------------------------------------------------------------------------------------------------
+A Remotely Reconfigurable IoT System using Wiki Software
+
+http://www.iaiai.org/journals/index.php/IEE/article/view/420
+------------------------------------------------------------------------------------------------------
+- Using this IoT system, we created a measurement system to evaluate activity levels of group work in a classroom.
+- we developed an IoT ystem using wiki software [5][6][7][8][10]. This system consists of wiki pages using wiki software and bots (defined herein as remotely controlled devices).
+- If a wiki is friendly to people, it will also be friendly to machines. This means that if machines can automatically read and write
+data onto a wiki page, users can obtain much more in the way of beneficial information. Those users can also easily control machines through the wiki page, thereby facilitating machine-
+to-people, people-to-machine, as well as machine-to-machine communication, which would make the wiki much more useful.
+- In the next section, we will explain how we created an activity measurement system to evaluate group work activity in a classroom using our proposed IoT
+system.
+------------------------------------------------------------------------------------------------------
+Ten years of CAZypedia: a living encyclopedia
+
+https://doi.org/10.1093/glycob/cwx089
+
+mediawiki
+------------------------------------------------------------------------------------------------------
+of carbohydrate-active enzymes
+- Now celebrating its 10th anniversary online, CAZypedia is a successful example of dynamic, community-driven and expert-based
+biocuration.
+- CAZypedia arose from the idea that a more detailed and directly accessible summary of the
+key research on individual CAZy families would be of significant value to glycoscience researchers, particularly highlighting the primacy
+of key research discoveries in a family, and supporting the activities of all scientists interested in CAZymes.
+- The MediaWiki software upon which CAZypedia relies tracks usage statistics, which are available through the Special Pages menu item.
+- More conservative estimates of activity provided by Google Analytics indicate that CAZypedia access has increased to thousands of international users
+per week since data recording on that utility began in the autumn of 2009 (Figure 2). Regardless of the absolute values, these data highlight
+the sustained and growing value of CAZypedia to specialists and non-specialists alike.
+- although CAZypedia adopts many of the general principles and rules of Wikipedia, CAZypedia draws on best-practice authoring
+and editing principles of peer-reviewed, wiki-based encyclopedia such as Citizendium (available at URL http://en.citizendium.org/)
+and Scholarpedia (available at URL http://www.scholarpedia.org).
+- Additionally, individual
+biographical pages enable readers to evaluate directly each contributor’s expertise in the field. To maintain editorial quality control,
+every Family and Lexicon page in CAZypedia is overseen by a Responsible Curator, who is primarily responsible for overall content.
+Responsible Curators are selected by a panel of Senior Curators based on established expertise and a willingness to participate in the active
+maintenance of specific pages. In turn, Responsible Curators are tasked with recruiting and managing Authors to participate in content creation;
+Responsible Curators may also contribute directly to composing page content.
+- In the spirit of a community-driven resource, individuals are encouraged to self-nominate to become Responsible Curators or
+Authors.
+------------------------------------------------------------------------------------------------------
+TOWARDS SMART RIYADH: RIYADH WIKI INFORMATION AND COMPLAINING SYSTEM
+
+http://aircconline.com/ijmit/V10N2/10218ijmit06.pdf
+
+Wikia
+------------------------------------------------------------------------------------------------------
+- The system follows the crowd sourcing
+approach by allowing citizens to act as sources of data to support the government and to improve their city.
+It also follows the co-design approach by being an open source platform that allows citizens to cooperate
+to build the system and add new services. The system aims at enhancing citizens’ life and solving
+governmental issues like transparency, trust, decision-making, and accountability in a cheap way. It is
+developed as a web-based wiki system, so it can be used easily by the non-skilled citizens while allowing
+skilled citizens to add new features, functionalities, and new services.
+- In this paper, a crowdsourcing web-based wiki system “Riyadh Wiki Information and
+Complaining System” is proposed to engage citizens in Riyadh city in Saudi Arabia.
+Crowdsourcing approach has been selected as it is the most scalable approach that does not
+require highly skilled citizens.
+- Wikia tool has been selected for the system
+implementation as it is a free open source tool with useful features to reduce the development
+effort.
+- “Riyadh Wiki Information and Complaining System” is an initiative for the smartness of Riyadh
+city. It presents a hybrid model of engagement, where the citizens can engage in the smartness of
+their city by publishing Riyadh issues and data about different sectors such as health and
+education sectors; in addition, citizens can add new features, functionalities and even new sectors
+to the system. In other words, the system follows the crowdsourcing approach by allowing
+citizens to act as sensor nodes and sources of data to support the government and to improve their
+city. It also follows the co-design approach by being an open source platform that allows citizens
+to cooperate to build the system and add new features and functionalities to it.
+- “Riyadh Wiki Information and Complaining System” is a web-based system where citizens can
+discuss, add and share data and issues in the city of Riyadh in order to publish important
+information, fix issues and improve their city. The home page of the system is shown in Fig 1.
+The main functions of the system are:
+- To increase the scope of engagement so that it can cover large number of citizens and large
+number of sectors, the system has been developed using Wiki tools so that the citizens rather than
+the government will carry out the web-development process. Using Wiki, citizens can add new
+sectors and share data, complains, and feedback about the different sectors in the city, and the
+different services that the government provides.
+- 4.3.WEB USABILITY EVALUATION
+ISO defines usability as the “extent to which a product can be used by specified users to achieve
+specified goals effectively, efficiently and with satisfaction in a specified context of use" (in ISO
+9241-11) [28]”. To ensure the usability on our system, the following conditions should be
+satisfied:
+1. The system must operate on any device: laptop, smartphone, or tablet.
+2. The system must be accessible anytime and anywhere.
+3. The system must be available on different languages.
+4. The system must be free of charge.
+5. As the content of the system will be created by the citizens, the system should have
+usability features that will facilitate their work.
+6. Complaining systems must have features to facilitate adding and reinforcing complains.
+------------------------------------------------------------------------------------------------------
+LiverWiki: a wiki-based database for human liver
+
+https://doi.org/10.1186/s12859-017-1852-0
+
+- mediawiki
+------------------------------------------------------------------------------------------------------
+- Other than assisting users in searching,
+browsing, reviewing, refining the contents on LiverWiki, the most important contribution of LiverWiki is to allow the
+community to create and update biological data of liver in visible and editable tables. This integrates newly produced
+data with existing knowledge. Implemented in mediawiki, LiverWiki provides powerful extensions to support
+community contributions.
+- Fortunately, wiki-based biological databases have received
+a great deal of attention in recent years [7]. The
+idea of a wiki on gene function was first proposed based
+on the report that wikipedia comes close to Britannica
+in terms of the accuracy of its science entries [8]. Later
+on, there has been an significant increase in the construction
+domain-specific wiki-based databases [9–26].
+- LiverWiki supports community searching, browsing,
+reviewing, refining, and creating liver-related data, which
+allow newly produced data to be rapidly integrated with
+existing data through community curation. Flexible internal
+links are provided to demonstrate the relations between
+genes, proteins, pathways and diseases. Powerful
+external links are used for direct access to external databases.
+- As the user group continues to
+grow, user participation is be included to ensure the accuracy
+of the information on LiverWiki following the
+wiki model: the quality of information is ensured and
+improved by multiple users reviewing and refining the
+same content [21]. When the user group grows bigger,
+pages/tables created by users are to be reviewed by peers
+in co-editing manners to ensure the accuracy of the information
+on the pages/tables.
+- Users can create new pages
+using pre-defined templates. LiverWiki offers 11 types of
+page creators for registered users, which are shown in
+Fig. 6. 
+- Other functionalities
+A user-friendly web interface is provided for users to
+easily search or browse LiverWiki.'
+- In an academic setting, trust of peers is relatively
+high. A single account can be created for a principal
+investigator who can create accounts for their
+students. This approach for account creation relieves the
+burden of having to create all accounts from a single
+user.
+
+------------------------------------------------------------------------------------------------------
+Development of a decision aid for
+cardiopulmonary resuscitation and invasive
+mechanical ventilation in the intensive care
+unit employing user-centered design and a
+wiki platform for rapid prototyping
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0191844
+
+Dokuwiki 
+
+https://www.wikidecision.org/
+------------------------------------------------------------------------------------------------------
+Wikis and user-centered design can be used to adapt decision aids to users' needs and local
+contexts. Our wiki platform allows other centers to adapt our tools, reducing duplication and
+accelerating scale-up. Physicians need training in shared decision making skills about goals of
+care and in using the decision aid.
+
+Clinical practice guidelines recommend shared decision making (SDM) to facilitate discussions
+about goals of care and the desirability of aggressive life-sustaining interventions [9].
+SDM involves health professionals and patients making decisions together based on the best
+available evidence, health professionals' experience, and patients' values and preferences [10±
+12]. Decision aids (DAs) can help clinicians engage in SDM with their patients [12]. Routinely
+engaging patients and their family members in discussions about both options (i.e. forgoing or
+pursuing life-sustaining interventions) recognizes patient autonomy, improves the experience
+of dying, and reduces family distress [13]. Although DAs about life-sustaining interventions
+exist and can be found online on websites such as the A to Z Inventory of Decision Aids [14],
+these DAs are not universally used in hospitals around the world. Lack of adaptation
+
+However, to the best of
+our knowledge, wikis have never been used to engage knowledge users in adapting existing
+DAs to local contexts and to the specific needs of users (patients and clinicians) [18]. For these
+reasons, our primary objective was to engage end-users in adapting an existing decision aid
+about CPR to create a locally-adapted wiki-based decision aid about goals of care that could be
+individually tailored to a patient's risk factors. The secondary objective was to document the
+use of a wiki platform for this purpose.
+
+Phase I: Needs assessment
+Phase II: Prototype development
+The Good Outcome
+Following Attempted Resuscitation (GO-FAR) clinical prediction rule estimates the likelihood
+of neurologically intact survival after in-hospital cardiopulmonary resuscitation
+
+Using Dokuwiki and its GNU General Public Licence, we created a
+wiki that presented our project and archived the different versions of our DA for future use
+and adaptation to other contexts.
+
+The wiki was used instead as a knowledge management and
+dissemination platform and for programming the online GO-FAR prediction rule, which
+became an online complement to the DA that intensivists could use at their discretion.
+
+Documenting the use of a wiki platform for adapting DAs
+
+we
+used user-centered design methodology to create a new DA adapted to the local context and
+the needs of patients and clinicians in an ICU in Quebec, Canada. As an adjunct, we combined
+the GO-FAR outcome prediction calculator with visual risk representation software to enable
+physicians to quickly tailor visual representations to individual patients to explain their
+chances of survival with a good neurological outcome after attempted CPR for in-hospital cardiac
+arrest.
+------------------------------------------------------------------------------------------------------
+Data Descriptor: A global reference
+database of crowdsourced cropland
+data collected using the Geo-Wiki
+platform
+
+10.1038/sdata.2017.136
+
+geo-wiki
+------------------------------------------------------------------------------------------------------
+Background & Summary
+The spatial extent of cropland has been mapped from remote sensing via many different initiatives as
+part of global land cover mapping activities, e.g., GLC-20001, MODIS land cover2, GlobeLand303 and
+the Climate Change Initiative (CCI) of the European Space Agency4. Despite the availability of these
+and many other products, large spatial disagreement on the location and distribution of cropland still
+exists5–7.
+
+In addition to validation, the
+data presented here also represent a valuable training tool that can be used to develop new land cover or
+cropland extent maps as well as to train algorithms to produce remote sensing-based products14,15
+
+Once a participant was
+registered and logged on, he/she could see a sample location where a semi-transparent 300 × 300m frame
+subdivided in 25 grid cells is superimposed on Google Maps imagery (indicated by A in Fig. 2). Users
+were then asked to click (i.e., shade in yellow) all grid cells covered by more than 50% cropland
+
+The primary use of this reference data set is to validate global cropland maps generated using remote
+sensing that range from 60 to 300m in resolution. More specifically, the data allows for an extensive
+spatially explicit validation of the cropland layer due to the rich amount of reference data.
+
+------------------------------------------------------------------------------------------------------
+Supporting Cyber Resilience with Semantic Wiki
+
+10.1145/2957792.2957803
+
+semantic wiki
+------------------------------------------------------------------------------------------------------
+In any case, to manage the information security, organizations need to recognize all valuable assets, identify threats and risks, respond to risks by appropriate controls, and finally monitor the development [24, 31]. Semantic wikis provide excellent platform and infrastructure for the documentation and maintenance of this valuable information.
+
+Wiki platforms are becoming more and more popular knowledge and information management tools especial for intra-organizational collaboration to facilitate knowledge management between coworkers [20, 22]. Semantic MediaWiki (SMW) extends basic wiki platforms with the ability to represent, query and manage structured information [22]. Wikis, especially with the semantic extensions, have proven their strengths as knowledge sharing and collaboration platforms for wide variety of purposes especially in software engineering, systems management, and knowledge base systems [26]. Hence, SMW can be seen as a potential collaboration platform for cyber security risk management and associated catalogues for SMEs.
+
+The main purpose of the current research efforts is to assess, by constructing a prototype, whether it is possible to use semantic wiki as platform for information security knowledge base to improve cyber resilience and risk management processes of especially SMEs.
+
+We propose to use the semantic wiki to provide a platform of existing common information and cyber security information, which can be used as a technical tool for organizations own risk management processes. The proposal consists of initial asset, risk, and security control data provided in the semantic wiki as well as new functions implemented to wiki for common actions performed as part of risk management process.
+
+------------------------------------------------------------------------------------------------------
+not used
+
+It’s Time to Wikify Clinical Documentation: How Collaborative Authorship Can Reduce the Burden and Improve the Quality of the Electronic Health Record
+
+https://journals.lww.com/academicmedicine/Fulltext/2019/05000/It_s_Time_to_Wikify_Clinical_Documentation__How.29.aspx
+------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------
+not used
+
+Gamify Online Courses With Tools Built Into Your
+Learning Management System (LMS)
+to Enhance Self-Determined and Active Learning
+
+https://eric.ed.gov/?id=EJ1191480
+------------------------------------------------------------------------------------------------------
+In other words,
+a wiki can be a collaborative tool that allows students to create web contents (e.g., web pages,
+texts, and tables). For the present study, we used the built-in wiki setting in the LMS to create
+an editable contingency table (i.e., a 4 x 4 table [bingo] or a 6 x 5 table [Jeopardy]), where each
+cell contained a short essay or statistical calculation question.
+
+One of the special characteristics of the gamified activities was to have students submit
+their answers in a game setting, such as online bingo or Jeopardy. Both gamified activities
+required players to provide their answers into a wiki-based table through an online course LMS.
+By default, only one student in a course could log in to edit the wiki table, while everyone else
+would have their access to the wiki table blocked until the student logged out. This mechanism
+created a natural first-come, first-choice environment, which fits the competition and challenge
+element in the gamification design. Most
